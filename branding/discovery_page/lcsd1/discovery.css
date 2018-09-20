@@ -1,17 +1,17 @@
 body {
-    background-color: #CCE9F3;
+    background-color: #C2C3C4;
     font-family: Arial;
 }
 
 .content {
-    width: 100%;
+    width: 100vw;
     text-align: center;
     margin-top: 30px;
 }
 
 .boxbox {
     margin: auto!important;
-    border: 3px solid #0078E2;
+    border: 3px solid #6C6E71;
     border-radius: 20px;
     padding: 10px 40px;
     display: inline-block;
